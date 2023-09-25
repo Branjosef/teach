@@ -79,7 +79,7 @@ export const Home = () => {
             </p>
           </a>
 
-          <a
+          {/* <a
             href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
             target="_blank"
@@ -91,7 +91,7 @@ export const Home = () => {
             <p>
               Discover and deploy boilerplate example Next.js&nbsp;projects.
             </p>
-          </a>
+          </a> */}
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
